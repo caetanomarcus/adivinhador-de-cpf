@@ -1,0 +1,7 @@
+p {
+    font-size: 3rem;
+    text-align: center;
+    border: black solid;
+    margin-top: 5rem;
+    display: none;
+}
